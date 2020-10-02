@@ -27,6 +27,14 @@ body{
   li a:hover {
     background-color: rgb(194, 183, 183);
   }
-  
+  #div1{
+    left: 50px;
+    bottom: -507px;
+    width: 400px;
+    height: 200px;
+    position: relative;
+    font-weight: bolder;
+    font-size: xx-large;
+  }
   
  

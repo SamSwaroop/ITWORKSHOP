@@ -1,5 +1,5 @@
 body{
-    background-image: url("wallpaper.jpg");
+    background-image: url("seattle1.jpg");
     opacity: 1;
     background-repeat: no-repeat;
     background-size: 1750px;
@@ -34,7 +34,7 @@ ul {
   }
   #div1{
     position:relative; 
-    left:500px; 
+    left:100px; 
     top:300px;
     width: 430px;
     height: 430px;
