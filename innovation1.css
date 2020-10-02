@@ -1,10 +1,13 @@
+body{
+    background-color: gold;
+}
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: rgb(255, 255, 255);
-    opacity: 0.5;
+    background-color: rgb(255, 139, 6);
+    opacity: 1;
   }
   
   li {
@@ -24,3 +27,48 @@ ul {
   li a:hover {
     background-color: rgb(194, 183, 183);
   }
+  div {
+    position:relative; 
+    left:-5px; 
+    top:100px;
+    width: 500px;
+    height: 300px;
+    text-align: center;
+    font-size:30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(156, 148, 148);
+  }
+  #div1{
+    position:relative; 
+    left:509px; 
+    top:-200px;
+    width: 500px;
+    height: 300px;
+    text-align: center;
+    font-size:30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(156, 148, 148);
+  }
+  #div2{
+    position:relative; 
+    left:1022px; 
+    top:-500px;
+    width: 500px;
+    height: 300px;
+    text-align: center;
+    font-size:30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(156, 148, 148);
+  }
+  #div3{
+    position:relative; 
+    left:5px; 
+    top:-100px;
+    width: 1500px;
+    height: 600px;
+    text-align: center;
+    font-size:30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(156, 148, 148);
+  }
+  
