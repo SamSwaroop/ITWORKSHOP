@@ -1,0 +1,95 @@
+body{
+    background-image: url("wallpaper.jpg");
+    opacity: 1;
+    background-repeat: no-repeat;
+    background-size: 1750px;
+    
+    background-color: burlywood;
+  }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(0, 0, 0);
+    opacity: 0.5;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 24px;
+    padding: 50px 82px;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  li a:hover {
+    background-color: rgb(194, 183, 183);
+  }
+  #div1{
+    position:relative; 
+    left:500px; 
+    top:300px;
+    width: 430px;
+    height: 430px;
+    background-color: rgb(255, 255, 255);
+    opacity: 1;
+    text-align: center;
+    font-weight: bolder;
+  }
+  #div2{
+    position:relative; 
+    left:20px; 
+    top:500px;
+    width: 400px;
+    height: 400px;
+    background-color: yellow;
+    text-align: center;
+    font-weight: bolder;
+  }
+  #div3{
+    position:relative; 
+    left:555px; 
+    top:550px;
+    width: 400px;
+    height: 400px;
+    background-color: yellow;
+    text-align: center;
+    font-weight: bolder;
+  }
+  #div4{
+    position:relative; 
+    left:1100px; 
+    top:600px;
+    width: 400px;
+    height: 400px;
+    background-color: yellow;
+    text-align: center;
+    font-weight: bolder;
+  }
+  #div5{
+    position:relative; 
+    left:25px; 
+    top:200px;
+    width: 400px;
+    height: 400px;
+    background-color: yellow;
+    text-align: center;
+    font-weight: bolder;
+  }
+  #div6{
+    position:relative; 
+    left:1100px; 
+    top:-1100px;
+    width: 400px;
+    height: 400px;
+    background-color: yellow;
+    text-align: center;
+    font-weight: bolder;
+  }
